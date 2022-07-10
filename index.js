@@ -1,4 +1,4 @@
-console.log("HELLO")
+console.log("HELLO2")
 
 var clickBtn = document.getElementById("click")
 
